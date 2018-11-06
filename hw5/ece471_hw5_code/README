@@ -1,0 +1,16 @@
+ECE471 HW5 -- Fall 2018
+
+Name: Jason Millette
+
+
+7. scrolling ECE471
+
+8.
+ a). The GPU is booted first which then boots the rest of the system. This is not normal for an ARM board.
+ b). FAT is very universal and the SOC only knows how to read FAT format.
+ c). The bootloader.
+ d). 0x30 to 0x77 is the default scanning range.
+
+9.
+ a). 121 lines
+ b). 124 lines

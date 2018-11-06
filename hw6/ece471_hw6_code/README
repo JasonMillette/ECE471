@@ -1,0 +1,20 @@
+ECE471 HW#6 -- Fall 2018
+
+Name: Jason Millette Glenn Lumbert
+
+
+5.	Describe what your "something cool" code does
+        Displays a fact 
+
+6.
+ a). No, We dont have any code to act as a slave device.
+ b). No, We have no error check on reads.
+
+7.
+ a). Hard, people could die.
+ b). Soft, delay would only be annoying not lethal.
+ c). Firm, If the information is late it would be useless.
+
+8.
+ a). HIQ doorbell
+ b). outputs string forever, y if no sting specified by user. Quick and dirty way to answer scripts. For example "yes | rm -r /*" would delete everything if the os wasnt too lame to let you.

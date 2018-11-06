@@ -1,0 +1,29 @@
+ECE 471 Fall 2018 -- Homework 3
+
+Names of Group Members:
+
+Answer to Question #3a:
+
+#1 points to the end of the buffer
+
+#2 get the ascii letter value
+
+Describe your something cool:
+
+Answer to Question #7:
+
+a. ARM32 is the largest followed by THUMB2 and closely by THUMB2
+
+b. C executable is much larger
+
+c. C, with inline assembly where needed, because im lazy
+
+d. C
+
+Answer to Question #8a:
+yes, as found in the man page
+The assignment of Julian–Gregorian switching dates to country codes is
+historically naive for many countries.
+
+Not all options are compatible and using them in different orders will
+give varying results.
